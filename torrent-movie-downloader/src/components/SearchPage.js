@@ -107,7 +107,7 @@ const SearchPage = () => {
                       onClick={() => window.location.href = result.magnet}
                       style={{ marginTop: '10px' }}
                     >
-                      Download
+                      Download Torrent
                     </Button>
                   </>
                 }
