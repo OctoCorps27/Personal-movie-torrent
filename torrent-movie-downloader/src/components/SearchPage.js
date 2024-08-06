@@ -11,8 +11,7 @@ import {
   Paper,
   Alert
 } from '@mui/material';
-import { Download as DownloadIcon } from '@mui/icons-material'; // Import the Download icon
-
+import { Download as DownloadIcon } from '@mui/icons-material'; 
 const SearchPage = () => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
